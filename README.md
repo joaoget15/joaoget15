@@ -1,6 +1,6 @@
 ### Olá! eu sou o João Gabriel! 🖐️ || Hi! I'm João Gabriel 🖐️ 
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joão-gabriel-apolinário-a07505160)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/joão-gabriel-apolinário-a07505160](https://www.linkedin.com/in/jo%C3%A3o-gabriel-apolin%C3%A1rio-a07505160?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBN%2B4aACnQYWZvSkfO33vYg%3D%3D))
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]( https://discord.com/channels/@joao_54639)
 
 ![João Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoget15&show_icons=true&theme=radical)
