@@ -5,6 +5,8 @@
 
 ![João Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoget15&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoget15&layout=donut)](https://github.com/joaoget15)
+
 ## 🚀 Tecnologias || Tech's
 
 <div style="display: inline_block"><br/>
